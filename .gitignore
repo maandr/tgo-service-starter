@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+
+*.env
+*.log
+
+.nyc_output
+.coveralls.yml
+.vscode

@@ -1,0 +1,9 @@
+express:
+  port: 3000
+mysql:
+  host: "localhost"
+  port: 3306
+  username: "serviceuser"
+  database: "servicedb"
+logging:
+  level: "debug"

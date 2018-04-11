@@ -1,0 +1,5 @@
+--compilers ts:ts-node/register
+--project tsconfig.json
+--require source-map-support/register
+--exit
+test/**/*.spec.ts

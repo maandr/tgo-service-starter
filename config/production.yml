@@ -1,0 +1,4 @@
+express:
+  port: 9001
+logging:
+  level: "debug"

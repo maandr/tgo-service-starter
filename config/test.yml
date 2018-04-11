@@ -1,0 +1,7 @@
+express:
+  port: 9909
+mysql:
+  username: "serviceuser_test"
+  database: "servicedb_test"
+logging:
+  level: "warn"
